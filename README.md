@@ -113,9 +113,8 @@ vsim -c work.testfixture -do "run -all; quit"
 ## 🔧 環境需求
 
 * ModelSim / QuestaSim
-* Quartus Prime（針對 HW4 gate-level 模擬與綜合）
-* Python 3（僅 HW4 軟體驗證）
-
+* Quartus Prime
+* Python 3
 ---
 
 ## 📄 授權條款
